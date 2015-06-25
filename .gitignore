@@ -1,0 +1,12 @@
+### Intellij ###
+
+*.iml
+
+## Directory-based project format:
+.idea/
+
+# IntelliJ
+/out/
+
+# Java class files
+*.class
