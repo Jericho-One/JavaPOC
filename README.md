@@ -1,5 +1,5 @@
 # JavaPOC
-Proof Of Concept: Apache HttpComponents get request, Junit, JMockit, Basic Maven POM
+Proof Of Concept: Apache HttpComponents get request, Junit, JMockit, Basic Maven POM, also more exposure to .gitignore concepts
 
 Also includes Java 7+ try-with-resources statement that closes all the closeable resources without having to put them in a finally block.
 
